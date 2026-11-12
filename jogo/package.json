@@ -1,0 +1,14 @@
+{
+  "name": "caminho-da-redencao",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild source.js --bundle --format=iife --minify --outfile=game.js"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}

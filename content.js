@@ -1,0 +1,27 @@
+'use strict';
+const verses = {
+  way:['João 14:6','Eu sou o caminho, a verdade e a vida; ninguém vem ao Pai senão por mim.'],
+  holiness:['1 Pedro 1:15','Assim como é santo aquele que os chamou, sejam santos vocês também em tudo o que fizerem.'],
+  renewal:['Romanos 12:2','E não vivam conforme os padrões deste mundo, mas deixem que Deus os transforme pela renovação da mente.'],
+  old:['Efésios 4:22','Quanto à maneira antiga de viver, vocês foram instruídos a deixar de lado o velho homem, que se corrompe segundo os desejos enganosos.'],
+  crucified:['Gálatas 5:24','E os que são de Cristo Jesus crucificaram a carne, com as suas paixões e os seus desejos.'],
+  obedience:['Hebreus 4:15','Porque não temos sumo sacerdote que não possa se compadecer das nossas fraquezas; pelo contrário, ele foi tentado em todas as coisas, à nossa semelhança, mas sem pecado.'],
+  creation:['Gênesis 1:26,27','Façamos o ser humano à nossa imagem, conforme a nossa semelhança. […] Assim Deus criou o ser humano à sua imagem, à imagem de Deus o criou; homem e mulher os criou.'],
+  command:['Gênesis 2:17','Mas da árvore do conhecimento do bem e do mal você não deve comer; porque, no dia em que dela comer, você certamente morrerá.'],
+  separation:['Isaías 59:2','Mas as iniquidades de vocês fazem separação entre vocês e o seu Deus; e os pecados que vocês cometem o levam a esconder o seu rosto de vocês.'],
+  sin:['Romanos 3:23','Pois todos pecaram e carecem da glória de Deus.'],
+  life:['Romanos 6:23','Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor.'],
+  grace:['Efésios 2:8,9','Porque pela graça vocês são salvos, mediante a fé; e isto não vem de vocês, é dom de Deus; não de obras, para que ninguém se glorie.'],
+  cross:['Isaías 53:5','Mas ele foi traspassado por causa das nossas transgressões e moído por causa das nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas feridas fomos sarados.'],
+  risen:['Romanos 4:25','Ele foi entregue por causa das nossas transgressões e ressuscitou para a nossa justificação.'],
+  faith:['Atos 16:31','Creia no Senhor Jesus e você será salvo.'],
+  repentance:['Marcos 1:15','Arrependam-se e creiam no evangelho.'],
+  justified:['Romanos 8:1','Agora, pois, já não existe nenhuma condenação para os que estão em Cristo Jesus.'],
+  new:['2 Coríntios 5:17','E, assim, se alguém está em Cristo, é nova criatura; as coisas antigas já passaram; eis que se fizeram novas.'],
+  love:['João 3:16','Porque, na verdade, Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna.'],
+  holy:['1 Tessalonicenses 4:3','Pois esta é a vontade de Deus: a santificação de vocês.'],
+  spirit:['Gálatas 5:16','Vivam no Espírito e vocês jamais satisfarão os desejos da carne.'],
+  fruit:['Gálatas 5:22,23','Mas o fruto do Espírito é amor, alegria, paz, paciência, amabilidade, bondade, fidelidade, mansidão e domínio próprio.'],
+  glory:['1 Coríntios 10:31','Portanto, quer vocês comam, quer bebam ou façam qualquer outra coisa, façam tudo para a glória de Deus.'],
+  hope:['Filipenses 1:6','Aquele que começou boa obra em vocês há de completá-la até o Dia de Cristo Jesus.']
+};
